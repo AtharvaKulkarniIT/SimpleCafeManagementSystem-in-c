@@ -31,7 +31,7 @@ The code is structured using a linked list to manage the menu items and customer
     ./cafe_management
     ```
 
-3. Follow the on-screen instructions to navigate the admin or customer menu.
+3. Follow the on-screen instructions to navigate the admin or customer menu. Admin username is "admin" and the password set is "admin@cafe".
 
 ## License
 
