@@ -190,7 +190,7 @@ void mainmenu() {
         printf("\t\t\t\t\t\t\tEnter password: ");
         scanf("%s", password);
 
-        if (strcmp(username, "admin") == 0 && strcmp(password, "VIT") == 0) {
+        if (strcmp(username, "admin") == 0 && strcmp(password, "admin@cafe") == 0) {
             int choice;
 
             while (1) {
