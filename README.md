@@ -40,11 +40,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contribution
 
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests.
-
-## Acknowledgments
-
-The Simple Cafe Management System code is a basic example and may be extended and enhanced for more advanced functionality. It is ideal for educational and learning purposes.
-
----
-
-You can include additional sections or details in your README, such as installation instructions, code structure, and dependencies, based on your specific project's needs.
