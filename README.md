@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Simple Cafe Management System is a basic C program that provides functionality for managing a cafe's menu and customer orders. The program is designed to be run in the command line and offers separate menus for administrators and customers.
+The Simple Cafe Management System is a C program that provides functionality for managing a cafe's menu and customer orders. The program is designed to be run in the command line and offers separate menus for administrators and customers.
 
 - **Admin Menu**: Administrators can perform actions like viewing the menu, adding items to the menu, deleting items from the menu, and calculating the total sales.
 
